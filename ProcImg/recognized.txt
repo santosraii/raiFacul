@@ -1,0 +1,55 @@
+ 
+
+Dado um grafo G = (V,E), um conjunto independente em G é um subconjunto SC V tal que ij # B, para
+todos i,j € S. Em outras palavras, um conjunto independente é um subconjunto de vértices mutuamente nao
+adjacentes em G. Considere o seguinte problema de decisiio,
+
+cl
+
+ENTRADA: grafo G = (V, E), inteiro k > 0.
+
+QUESTAO: existe um conjunto independente em'G com pelo menos k yértices ?
+
+1. Responda CERTO ou ERRADO As questoes abaixo. Acerto= +0,5 ponto, erro = -0,2 ponto.
+
+(a) SeNP CP, entao todo problema emWP-Completo admite um algoritmo polinomial. (Xf CERTO (
+
+) ERRADO
+(b) O complemento de um problema de decisao’ P60 problema P tal que I é uma instancia de P se e
+somente se I ¢ uma instancia de P ea resposta a qualquer instancia é “sim” para P se ¢ somente se
+
+@ resposta é “nao” para P. Defina a seguinte classe:
+coNP={P| PENP}
+
+Entao, PC co-NP. ({) CERTO. ( ) ERRADO
+(6) Se as frequéncias fr, fo de-dois caracteres distintos dé um texto Tsio tais que fi < fo, ento qualquer
+codificagao bindria sem profixos dtima para.” é tal que cy > 2, onde ey e én so 6 tamanhos dos
+c6digos correspondendo a f; ¢ fa, respectivamente. (J CERTO () ERRADO
+(4) (G1,4) é uma insténcia “sim” para CY, énquanito(G2,5) é uma instancia “nao”.
+() CERTO () ERRADO
+
+2. (2,0 pontos) Apresente um certificado e des
+Mmostrando assim que Cle NP.
+
+creva um algoritmo polinomial de verificagio da resposta “sim”,
+
+3. (2,0 pontos) Sejam f, uma redugdo polinomial de SAT para 3-SAT e fy uma redugao polinomial de 4-SAT.
+para CLIQUE. Elabore uma reducao polinomial de SAT para CLQ, aproveitando f; e fo. Justifique a
+
+sua resposta,
+4. (2,0 pontos) Apresente uma instancia do problema de Cédigo de Huffman cuja arvore digital representando
+uma solugao 6tima tenha altura méxima possfvel dada a quantidade de simbolos do alfabeto. O alfabeto
+
+da instancia apresentada deve conter 8 simbolos, Apresente a drvore digital 6tima da sua instancia.
+
+5. As perguntas a seguir esto relacionadas aos grafos da Figura 5:
+
+(a) (2,0 pontos) Elabore um algoritmo Suloso que retorne o tamanho de uma clique maximal em um grafo
+G = (V,£) dado como entrada, O seu algoritmo deve ter complexidade O(n?), sendo n = |V|. ©
+seu algoritmo nao deve depender da identificacio dos vértices (ou seja, para um dado grafo, o valor
+retornado deve ser 0 mesmo para qualquer denominagao dada aos vértices),
+
+ 
+
+ 
+
